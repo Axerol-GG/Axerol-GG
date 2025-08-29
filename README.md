@@ -21,7 +21,7 @@ You can download my resume here: [Sebastián Molina - CV.pdf]
 ---
 
 ## 📬 Contact Me  
-- 💼 [LinkedIn](www.linkedin.com/in/sebastian-molina-b5707a251)  
+- 💼 LinkedIn: (www.linkedin.com/in/sebastian-molina-b5707a251)  
 - 📧 Email: sebamolinanavarro@gmail.com   
 
 ---
