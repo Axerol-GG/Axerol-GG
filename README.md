@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sebastián 👋  
 
-<!--
-**Axerol-GG/Axerol-GG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer passionate about building web, mobile, and AI applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🛠️ **Skills:** Python, Html, CSS, Git 
+- 🎯 **Interests:** Open Source, Software Architecture, QA, Software Development  
+- 📚 Always learning new technologies and best practices  
+
+---
+
+## 📂 Projects   
+
+---
+
+## 📄 Resume  
+You can download my resume here: [Sebastián Molina - CV.pdf]
+
+---
+
+## 📬 Contact Me  
+- 💼 [LinkedIn](www.linkedin.com/in/sebastian-molina-b5707a251)  
+- 📧 Email: sebamolinanavarro@gmail.com   
+
+---
+
+⭐️ Thanks for visiting my profile! ⭐️
