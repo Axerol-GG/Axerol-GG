@@ -1,29 +1,33 @@
-# Hi, I'm Sebastián 👋  
+# Hi, I'm Sebastián
 
-💻 Junior Software Developer passionate about building web, mobile, and AI applications.  
-
----
-
-## 🚀 About Me  
-- 🛠️ **Skills:** Python, Html, CSS, Git 
-- 🎯 **Interests:** Open Source, Software Architecture, QA, Software Development  
-- 📚 Always learning new technologies and best practices  
+Junior Software Developer passionate about building web, mobile, and AI applications.
 
 ---
 
-## 📂 Projects   
+## About Me
+- Skills: Python, HTML, CSS, Git, Documentation, Software Testing  
+- Interests: Open Source, Software Architecture, QA, Software Development  
+- Always learning new technologies and best practices.
 
 ---
 
-## 📄 Resume  
-You can download my resume here: [Sebastián Molina - CV.pdf]
+## Projects
+Here are some of the projects I've been working on:
+
+- [Project Name 1]([https://github.com/USERNAME/REPOSITORY](https://github.com/Axerol-GG/Gestion-de-Inventario-Web-Pharus))
+- [Project Name 2]([https://github.com/USERNAME/REPOSITORY](https://github.com/Axerol-GG/Proyecto-NutriMotion))
 
 ---
 
-## 📬 Contact Me  
-- 💼 LinkedIn: (www.linkedin.com/in/sebastian-molina-b5707a251)  
-- 📧 Email: sebamolinanavarro@gmail.com   
+## Resume
+You can download my resume here: **Sebastián Molina - CV.pdf**
 
 ---
 
-⭐️ Thanks for visiting my profile! ⭐️
+## Contact Me
+- LinkedIn: https://www.linkedin.com/in/sebastian-molina-b5707a251  
+- Email: sebamolinanavarro@gmail.com
+
+---
+
+Thanks for visiting my profile!
