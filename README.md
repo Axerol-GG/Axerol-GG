@@ -14,8 +14,8 @@ Junior Software Developer passionate about building web, mobile, and AI applicat
 ## Projects
 Here are some of the projects I've been working on:
 
-- [Project Name 1]([https://github.com/USERNAME/REPOSITORY](https://github.com/Axerol-GG/Gestion-de-Inventario-Web-Pharus))
-- [Project Name 2]([https://github.com/USERNAME/REPOSITORY](https://github.com/Axerol-GG/Proyecto-NutriMotion))
+- [Project Name 1]((https://github.com/Axerol-GG/Gestion-de-Inventario-Web-Pharus))
+- [Project Name 2]((https://github.com/Axerol-GG/Proyecto-NutriMotion))
 
 ---
 
