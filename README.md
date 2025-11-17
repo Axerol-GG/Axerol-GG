@@ -20,7 +20,8 @@ Here are some of the projects I've been working on:
 ---
 
 ## Resume
-You can download my resume here: **Sebastián Molina - CV.pdf**
+You can download my resume here:  
+[Download Resume (PDF)](https://github.com/user-attachments/files/23590202/CV.Sebastian.Molina.pdf)
 
 ---
 
